@@ -1,0 +1,1632 @@
+{
+  "request": {},
+  "response": {
+    "success": true,
+    "globalData": {
+      "h": "g,ge3telrsgexdknzogizdm",
+      "tpId": 0,
+      "totalSize": 7,
+      "invalidSize": 1,
+      "isAllCItem": false,
+      "isAllBItem": false,
+      "diffTairCount": 0,
+      "login": false,
+      "openNoAttenItem": false,
+      "startTime": "2013-11-08 16:51:10",
+      "endNotEqualTime": "2014-03-07 11:36:24",
+      "isNext": true,
+      "page": 1,
+      "currentPageSize": 7,
+      "quickSettlement": false,
+      "weakenCart": false,
+      "cartUrl": "http://cart.taobao.com/cart.htm?from=bmini",
+      "bundRela": {
+        "list": [
+          {
+            "id": 399573899,
+            "title": "湾儿家",
+            "bundles": [
+              "s_399573899"
+            ]
+          },
+          {
+            "id": 695609583,
+            "title": "傲世奢侈品交易平",
+            "bundles": [
+              "s_695609583"
+            ]
+          },
+          {
+            "id": 435179831,
+            "title": "美美——",
+            "bundles": [
+              "s_435179831"
+            ]
+          },
+          {
+            "id": 408561270,
+            "title": "陈秀羽服饰",
+            "bundles": [
+              "s_408561270"
+            ]
+          },
+          {
+            "id": 94269988,
+            "title": "我的B2C小店4",
+            "bundles": [
+              "s_94269988"
+            ],
+            "promo": {
+              "title": "省10.00元:满就送",
+              "discount": 1000,
+              "point": 0,
+              "usePoint": 0,
+              "isSelected": true,
+              "value": "mjs-94269988_132268118"
+            }
+          },
+          {
+            "id": 592995015,
+            "title": "妖精づ鞋柜",
+            "bundles": [
+              "s_592995015"
+            ]
+          },
+          {
+            "id": 84815057,
+            "title": "优木园艺",
+            "bundles": [
+              "s_84815057"
+            ]
+          },
+          {
+            "id": 28011101,
+            "title": "菲然小屋",
+            "bundles": [
+              "s_28011101"
+            ]
+          },
+          {
+            "id": 682508620,
+            "title": "淑美玩具",
+            "bundles": [
+              "s_682508620"
+            ]
+          },
+          {
+            "id": 1103141522,
+            "title": "维依恋旗舰店",
+            "bundles": [
+              "s_1103141522"
+            ],
+            "promo": {
+              "title": "省0.00元:3.8生活节",
+              "discount": 0,
+              "point": 0,
+              "usePoint": 0,
+              "isSelected": true,
+              "value": "Tmall$tspAll-27484074"
+            }
+          },
+          {
+            "id": 383999134,
+            "title": "新星轩精品男童装",
+            "bundles": [
+              "s_383999134"
+            ]
+          }
+        ]
+      },
+      "showRedEnvelope": false,
+      "showGodDialogue": false
+    },
+    "list": [
+      {
+        "id": "s_399573899",
+        "title": "湾儿家",
+        "type": "shop",
+        "url": "http://store.taobao.com/shop/view_shop.htm?user_number_id=399573899",
+        "seller": "shichongdi",
+        "host": "C",
+        "shopId": 61498446,
+        "sellerId": "399573899",
+        "isValid": true,
+        "hasPriceVolume": false,
+        "extraItem": {
+          "totalExtraItemNum": 0,
+          "remainExtraItemNum": 0
+        },
+        "bundles": [
+          {
+            "id": "s_399573899_0",
+            "orders": [
+              {
+                "id": "51293509168",
+                "itemId": "19584914202",
+                "skuId": "45758911856",
+                "cartId": "51293509168",
+                "isValid": true,
+                "url": "http://item.taobao.com/item.htm?id=19584914202",
+                "pic": "http://img04.taobaocdn.com/bao/uploaded/i4/13899026596314756/T11TybFlXfXXXXXXXX_!!0-item_pic.jpg",
+                "title": "特价包邮 吸盘浴室 毛巾架 壁挂卫生间 厨房卫浴室 三层架置物架",
+                "weight": 0,
+                "skus": {
+                  "颜色分类": "光滑经典吸盘"
+                },
+                "shopId": "61498446",
+                "shopName": "湾儿家",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=399573899",
+                "seller": "shichongdi",
+                "sellerId": 399573899,
+                "price": {
+                  "now": 6000,
+                  "origin": 12800,
+                  "oriPromo": 6000,
+                  "descend": 0,
+                  "save": 6800,
+                  "sum": 24000,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 4,
+                  "max": 53,
+                  "limit": 9223372036854776000,
+                  "multiple": 1,
+                  "supply": 0,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "CART_EBOOK": [],
+                  "CART_XIAOBAO": [
+                    {
+                      "desc": "如实描述",
+                      "title": "消费者保障服务，卖家承诺商品如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://img03.taobaocdn.com/tps/i3/T1bnR4XEBhXXcQVo..-14-16.png"
+                    },
+                    {
+                      "desc": "7天退换",
+                      "title": "消费者保障服务，卖家承诺7天无理由退换货",
+                      "link": "http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&am_id=130011831021c2f3caab&cm_id=&pm_id=",
+                      "img": "http://img04.taobaocdn.com/tps/i4/T16lKeXwFcXXadE...-14-15.png"
+                    }
+                  ],
+                  "CART_YULIU": [
+                    {
+                      "title": "支持信用卡支付",
+                      "img": "http://assets.taobaocdn.com/sys/common/icon/trade/xcard.png"
+                    }
+                  ],
+                  "CART_IDENTITY": []
+                },
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "promos": [
+                  [
+                    {
+                      "style": "tbcard",
+                      "title": "省240元:年末巨惠-...",
+                      "usedPoint": 0
+                    }
+                  ]
+                ],
+                "createTime": 1394419698000,
+                "attr": ";op:12800;cityCode:330100;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "skuStatus": 2,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1394419698000",
+                  "type": 0
+                }
+              }
+            ],
+            "type": "shop",
+            "valid": true
+          }
+        ]
+      },
+      {
+        "id": "s_695609583",
+        "title": "傲世奢侈品交易平",
+        "type": "shop",
+        "url": "http://store.taobao.com/shop/view_shop.htm?user_number_id=695609583",
+        "seller": "edt無道",
+        "host": "C",
+        "shopId": 106555610,
+        "sellerId": "695609583",
+        "isValid": true,
+        "hasPriceVolume": false,
+        "bundles": [
+          {
+            "id": "s_695609583_0",
+            "orders": [
+              {
+                "id": "45179047633",
+                "itemId": "36369001122",
+                "skuId": "41467959538",
+                "cartId": "45179047633",
+                "isValid": true,
+                "url": "http://item.taobao.com/item.htm?id=36369001122",
+                "pic": "http://img04.taobaocdn.com/bao/uploaded/i4/T1FP62FkRbXXXXXXXX_!!0-item_pic.jpg",
+                "title": "愛馬H扣手掌紋皮帶",
+                "weight": 0,
+                "skus": {
+                  "颜色分类": "黑色"
+                },
+                "shopId": "106555610",
+                "shopName": "傲世奢侈品交易平臺",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=695609583",
+                "seller": "edt無道",
+                "sellerId": 695609583,
+                "price": {
+                  "now": 148500,
+                  "origin": 148500,
+                  "oriPromo": 148500,
+                  "descend": 0,
+                  "save": 0,
+                  "sum": 742500,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 5,
+                  "max": 3,
+                  "limit": 9223372036854775807,
+                  "multiple": 1,
+                  "supply": 0,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "CART_EBOOK": [],
+                  "CART_XIAOBAO": [
+                    {
+                      "desc": "如实描述",
+                      "title": "消费者保障服务，卖家承诺商品如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://img03.taobaocdn.com/tps/i3/T1bnR4XEBhXXcQVo..-14-16.png"
+                    }
+                  ],
+                  "CART_YULIU": [],
+                  "CART_IDENTITY": []
+                },
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "createTime": 1389251633000,
+                "attr": ";op:148500;cityCode:330100;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "skuStatus": 2,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1389251633000",
+                  "type": 0
+                }
+              },
+              {
+                "id": "40865005024",
+                "itemId": "36367062613",
+                "skuId": "36240702186",
+                "cartId": "40865005024",
+                "isValid": true,
+                "url": "http://item.taobao.com/item.htm?id=36367062613",
+                "pic": "http://img04.taobaocdn.com/bao/uploaded/i4/19583033169071904/T1LFMLFXdXXXXXXXXX_!!0-item_pic.jpg",
+                "title": "全新蘭博基尼LP700-4 含購置稅",
+                "weight": 0,
+                "skus": {
+                  "颜色分类": "桔色"
+                },
+                "shopId": "106555610",
+                "shopName": "傲世奢侈品交易平臺",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=695609583",
+                "seller": "edt無道",
+                "sellerId": 695609583,
+                "price": {
+                  "now": 755000000,
+                  "origin": 770000000,
+                  "oriPromo": 770000000,
+                  "descend": 0,
+                  "save": 15000000,
+                  "sum": 7550000000,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 10,
+                  "max": 10,
+                  "limit": 9223372036854775807,
+                  "multiple": 1,
+                  "supply": 0,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "CART_EBOOK": [],
+                  "CART_XIAOBAO": [
+                    {
+                      "desc": "如实描述",
+                      "title": "消费者保障服务，卖家承诺商品如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://img03.taobaocdn.com/tps/i3/T1bnR4XEBhXXcQVo..-14-16.png"
+                    }
+                  ],
+                  "CART_YULIU": [],
+                  "CART_IDENTITY": []
+                },
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "createTime": 1386645841000,
+                "attr": ";op:770000000;cityCode:330100;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "skuStatus": 2,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1386645841000",
+                  "type": 0
+                }
+              },
+              {
+                "id": "41100499431",
+                "itemId": "36321918718",
+                "skuId": "36104438665",
+                "cartId": "41100499431",
+                "isValid": false,
+                "url": "http://item.taobao.com/item.htm?id=36321918718",
+                "pic": "http://img04.taobaocdn.com/bao/uploaded/i4/19583031080830054/T1KCzNFadXXXXXXXXX_!!0-item_pic.jpg",
+                "title": "邁凱輪mp4-12c全新中文版預定",
+                "weight": 0,
+                "skus": {
+                  "颜色分类": "红色"
+                },
+                "shopId": "106555610",
+                "shopName": "傲世奢侈品交易平臺",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=695609583",
+                "seller": "edt無道",
+                "sellerId": 695609583,
+                "price": {
+                  "now": 396000000,
+                  "origin": 396000000,
+                  "oriPromo": 396000000,
+                  "descend": 0,
+                  "save": 0,
+                  "sum": 396000000,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 1,
+                  "max": 2,
+                  "limit": 9223372036854775807,
+                  "multiple": 1,
+                  "supply": 0,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "CART_EBOOK": [],
+                  "CART_XIAOBAO": [
+                    {
+                      "desc": "如实描述",
+                      "title": "消费者保障服务，卖家承诺商品如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://img03.taobaocdn.com/tps/i3/T1bnR4XEBhXXcQVo..-14-16.png"
+                    }
+                  ],
+                  "CART_YULIU": [],
+                  "CART_IDENTITY": []
+                },
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "createTime": 1386734805000,
+                "attr": ";op:396000000;cityCode:330100;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "skuStatus": 3,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1386734805000",
+                  "type": 0
+                }
+              },
+              {
+                "id": "40865005023",
+                "itemId": "36250290617",
+                "skuId": "52649772565",
+                "cartId": "40865005023",
+                "isValid": false,
+                "url": "http://item.taobao.com/item.htm?id=36250290617",
+                "pic": "http://img04.taobaocdn.com/bao/uploaded/i4/695609583/T2OGnNXfpbXXXXXXXX_!!695609583.jpg",
+                "title": "兰博基尼LP560-4",
+                "weight": 0,
+                "skus": {
+                  "颜色分类": "白色"
+                },
+                "shopId": "106555610",
+                "shopName": "傲世奢侈品交易平臺",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=695609583",
+                "seller": "edt無道",
+                "sellerId": 695609583,
+                "price": {
+                  "now": 348000000,
+                  "origin": 348000000,
+                  "oriPromo": 348000000,
+                  "descend": 0,
+                  "save": 0,
+                  "sum": 3480000000,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 10,
+                  "max": 10,
+                  "limit": 9223372036854775807,
+                  "multiple": 1,
+                  "supply": 0,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "CART_EBOOK": [],
+                  "CART_XIAOBAO": [
+                    {
+                      "desc": "如实描述",
+                      "title": "消费者保障服务，卖家承诺商品如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://img03.taobaocdn.com/tps/i3/T1bnR4XEBhXXcQVo..-14-16.png"
+                    }
+                  ],
+                  "CART_YULIU": [],
+                  "CART_IDENTITY": []
+                },
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "createTime": 1386645818000,
+                "attr": ";op:348000000;cityCode:330100;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "skuStatus": 3,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1386645818000",
+                  "type": 0
+                }
+              }
+            ],
+            "type": "shop",
+            "valid": true
+          }
+        ]
+      },
+      {
+        "id": "s_435179831",
+        "title": "美美——",
+        "type": "shop",
+        "url": "http://store.taobao.com/shop/view_shop.htm?user_number_id=435179831",
+        "seller": "c测试账号136",
+        "host": "C",
+        "shopId": 62384964,
+        "sellerId": "435179831",
+        "isValid": true,
+        "scrollPromos": [
+          "<li title='单笔订单满2件,免邮'>单笔订单满2件,免邮</li>",
+          "<li title='单笔订单满3件,免邮'>单笔订单满3件,免邮免邮</li>",
+          "<li title='单笔订单满4件,免邮'>单笔订单满4件,免邮免邮免邮</li>"
+        ],
+        "hasPriceVolume": false,
+        "bundles": [
+          {
+            "id": "s_435179831_0",
+            "orders": [
+              {
+                "id": "45051164095",
+                "itemId": "35327382733",
+                "skuId": "33649369706",
+                "cartId": "45051164095",
+                "isValid": true,
+                "url": "http://item.taobao.com/item.htm?id=35327382733",
+                "pic": "http://img03.taobaocdn.com/bao/uploaded/i3/19831041340172207/T1w1tEFatdXXXXXXXX_!!0-item_pic.jpg",
+                "title": "测试商品不要折－－商品优惠券请不要拍",
+                "weight": 0,
+                "skus": {
+                  "颜色分类": "深紫色"
+                },
+                "shopId": "62384964",
+                "shopName": "美美——",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=435179831",
+                "seller": "c测试账号136",
+                "sellerId": 435179831,
+                "price": {
+                  "now": 1,
+                  "origin": 10000,
+                  "oriPromo": 5000,
+                  "descend": 0,
+                  "save": 9999,
+                  "sum": 15,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 15,
+                  "max": 87,
+                  "limit": 9223372036854775807,
+                  "multiple": 1,
+                  "supply": 0,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "CART_EBOOK": [],
+                  "CART_XIAOBAO": [
+                    {
+                      "desc": "如实描述",
+                      "title": "消费者保障服务，卖家承诺商品如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://img03.taobaocdn.com/tps/i3/T1bnR4XEBhXXcQVo..-14-16.png"
+                    }
+                  ],
+                  "CART_YULIU": [],
+                  "CART_IDENTITY": []
+                },
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "createTime": 1389238670000,
+                "attr": ";op:10000;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "skuStatus": 2,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1389238670000",
+                  "type": 0
+                }
+              },
+              {
+                "id": "40263066148",
+                "itemId": "36411580369",
+                "skuId": "0",
+                "cartId": "40263066148",
+                "isValid": true,
+                "url": "http://item.taobao.com/item.htm?id=36411580369",
+                "pic": "http://img03.taobaocdn.com/bao/uploaded/i3/T1w1tEFatdXXXXXXXX_!!0-item_pic.jpg",
+                "title": "[1212预演] 大促无SKU商品----不要拍测试请不要拍",
+                "weight": 0,
+                "shopId": "62384964",
+                "shopName": "美美——",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=435179831",
+                "seller": "c测试账号136",
+                "sellerId": 435179831,
+                "price": {
+                  "now": 10000,
+                  "origin": 10000,
+                  "oriPromo": 1900,
+                  "descend": 0,
+                  "save": 0,
+                  "sum": 10000,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 1,
+                  "max": 10,
+                  "limit": 9223372036854775807,
+                  "multiple": 1,
+                  "supply": 0,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "CART_EBOOK": [],
+                  "CART_XIAOBAO": [
+                    {
+                      "desc": "如实描述",
+                      "title": "消费者保障服务，卖家承诺商品如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://img03.taobaocdn.com/tps/i3/T1bnR4XEBhXXcQVo..-14-16.png"
+                    }
+                  ],
+                  "CART_YULIU": [],
+                  "CART_IDENTITY": []
+                },
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "createTime": 1386225437000,
+                "attr": ";op:10000;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "skuStatus": 0,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1386225437000",
+                  "type": 0
+                }
+              },
+              {
+                "id": "40289287003",
+                "itemId": "36313978495",
+                "skuId": "36104069226",
+                "cartId": "40289287003",
+                "isValid": false,
+                "url": "http://item.taobao.com/item.htm?id=36313978495",
+                "pic": "http://img01.taobaocdn.com/bao/uploaded/i1/19831031291397475/T1KEnLFj0XXXXXXXXX_!!2-item_pic.png",
+                "title": "skuskuku测试数据不要拍请不要拍",
+                "weight": 0,
+                "skus": {
+                  "颜色分类": "巧克力色",
+                  "尺码": "大码XXL"
+                },
+                "shopId": "62384964",
+                "shopName": "美美——",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=435179831",
+                "seller": "c测试账号136",
+                "sellerId": 435179831,
+                "price": {
+                  "now": 8000,
+                  "origin": 8000,
+                  "oriPromo": 7744,
+                  "descend": 0,
+                  "save": 0,
+                  "sum": 8000,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 1,
+                  "max": 2,
+                  "limit": 9223372036854775807,
+                  "multiple": 1,
+                  "supply": 0,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "CART_EBOOK": [],
+                  "CART_XIAOBAO": [
+                    {
+                      "desc": "如实描述",
+                      "title": "消费者保障服务，卖家承诺商品如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://img03.taobaocdn.com/tps/i3/T1bnR4XEBhXXcQVo..-14-16.png"
+                    }
+                  ],
+                  "CART_YULIU": [],
+                  "CART_IDENTITY": []
+                },
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "createTime": 1386237405000,
+                "attr": ";op:8000;cityCode:330100;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "skuStatus": 3,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1386237405000",
+                  "type": 0
+                }
+              }
+            ],
+            "type": "shop",
+            "valid": true
+          }
+        ]
+      },
+      {
+        "id": "s_408561270",
+        "title": "陈秀羽服饰",
+        "type": "shop",
+        "url": "http://store.taobao.com/shop/view_shop.htm?user_number_id=408561270",
+        "seller": "陀螺糖",
+        "host": "C",
+        "shopId": 61576170,
+        "sellerId": "408561270",
+        "isValid": true,
+        "hasPriceVolume": true,
+        "bundles": [
+          {
+            "id": "s_408561270_0",
+            "orders": [
+              {
+                "id": "44237671039",
+                "itemId": "36396805073",
+                "skuId": "36384105920",
+                "cartId": "44237671039",
+                "isValid": true,
+                "url": "http://item.taobao.com/item.htm?id=36396805073",
+                "pic": "http://img02.taobaocdn.com/bao/uploaded/i2/408561270/T2s8tKXthaXXXXXXXX_!!408561270.jpg",
+                "title": "慧川卉美 毛呢外套 2013冬季新款 蕾丝拼接 清新优雅中长款女装",
+                "weight": 0,
+                "skus": {
+                  "颜色分类": "西瓜红",
+                  "尺码": "S"
+                },
+                "shopId": "61576170",
+                "shopName": "陈秀羽服饰",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=408561270",
+                "seller": "陀螺糖",
+                "sellerId": 408561270,
+                "price": {
+                  "now": 29500,
+                  "origin": 31200,
+                  "oriPromo": 26500,
+                  "descend": 0,
+                  "save": 1700,
+                  "sum": 29500,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 1,
+                  "max": 10,
+                  "limit": 9223372036854775807,
+                  "multiple": 1,
+                  "supply": 0,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "CART_EBOOK": [],
+                  "CART_XIAOBAO": [
+                    {
+                      "desc": "如实描述",
+                      "title": "消费者保障服务，卖家承诺商品如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://img03.taobaocdn.com/tps/i3/T1bnR4XEBhXXcQVo..-14-16.png"
+                    }
+                  ],
+                  "CART_YULIU": [
+                    {
+                      "title": "支持信用卡支付",
+                      "img": "http://assets.taobaocdn.com/sys/common/icon/trade/xcard.png"
+                    }
+                  ],
+                  "CART_IDENTITY": []
+                },
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "createTime": 1388657451000,
+                "attr": ";op:31200;cityCode:330100;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "skuStatus": 2,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1388657451000",
+                  "type": 0
+                }
+              }
+            ],
+            "type": "shop",
+            "valid": true
+          }
+        ]
+      },
+      {
+        "id": "s_94269988",
+        "title": "我的B2C小店4",
+        "type": "shop",
+        "url": "http://store.taobao.com/shop/view_shop.htm?user_number_id=94269988",
+        "seller": "商家测试帐号9",
+        "host": "B",
+        "shopId": 57298338,
+        "sellerId": "94269988",
+        "isValid": true,
+        "scrollPromos": [
+          "<li title=\" 满100元减10元,免运费,减后满100,送1商城积分\">\r\n   \t\t \t\t\t\t\t\t\t\t\t满100元\r\n\t\t\t\t\t减10元\t\t\t\t\t,免运费\t\t\t\t\t,减后满100元\t\t\t\t\t,送1商城积分\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</li>"
+        ],
+        "hasPriceVolume": false,
+        "promView": {
+          "title": "省10.00元:满就送",
+          "discount": 1000,
+          "point": 0,
+          "usePoint": 0,
+          "isSelected": true,
+          "value": "mjs-94269988_132268118"
+        },
+        "bundles": [
+          {
+            "id": "s_94269988_0",
+            "orders": [
+              {
+                "id": "40767079536",
+                "itemId": "15733416213",
+                "skuId": "0",
+                "cartId": "40767079536",
+                "isValid": true,
+                "url": "http://detail.tmall.com/item.htm?id=15733416213",
+                "pic": "http://img01.taobaocdn.com/bao/uploaded/i1/T1F.yJXbRsXXbtr.wW_025126.jpg_sum.jpg",
+                "title": "【官方测试商品，不要拍】走UMP单品优惠-琅华",
+                "weight": 0,
+                "shopId": "57298338",
+                "shopName": "我的B2C小店4",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=94269988",
+                "seller": "商家测试帐号9",
+                "sellerId": 94269988,
+                "price": {
+                  "now": 6000000100,
+                  "origin": 6000000100,
+                  "oriPromo": 5999919800,
+                  "descend": 0,
+                  "save": 0,
+                  "sum": 30000000500,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 5,
+                  "max": 99,
+                  "limit": 9223372036854775807,
+                  "multiple": 1,
+                  "supply": 0,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "MALL_CART_IDENTITY": [],
+                  "MALL_CART_YULIU": [],
+                  "MALL_CART_XIAOBAO": [
+                    {
+                      "title": "消费者保障服务，卖家承诺7天退换",
+                      "link": "http://www.taobao.com/go/act/315/xb_20100707.php?ad_id=&am_id=1300268931aef04f0cdc&cm_id=&pm_id=#qitian",
+                      "img": "http://a.tbcdn.cn/tbsp/icon/xiaobao/a_7-day_return_16x16.png",
+                      "name": "七天退换"
+                    },
+                    {
+                      "title": "消费者保障服务，卖家承诺如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://a.tbcdn.cn/tbsp/icon/xiaobao/a_true_description_16x16.png",
+                      "name": "如实描述"
+                    },
+                    {
+                      "title": "消费者保障服务，卖家承诺假一赔三",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_jyps.php?ad_id=&am_id=1300118304240d56fca9&cm_id=&pm_id=",
+                      "img": "http://a.tbcdn.cn/tbsp/icon/xiaobao/an_authentic_item_16x16.png",
+                      "name": "假一赔三"
+                    }
+                  ]
+                },
+                "campaignId": "0",
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "createTime": 1386555127000,
+                "attr": ";campaignId:0;op:6000000100;cityCode:330100;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "skuStatus": 0,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1386555127000",
+                  "type": 0
+                }
+              }
+            ],
+            "type": "shop",
+            "valid": true
+          }
+        ]
+      },
+      {
+        "id": "s_592995015",
+        "title": "妖精づ鞋柜",
+        "type": "shop",
+        "url": "http://store.taobao.com/shop/view_shop.htm?user_number_id=592995015",
+        "seller": "晨馨眼镜",
+        "host": "C",
+        "shopId": 63309206,
+        "sellerId": "592995015",
+        "isValid": true,
+        "hasPriceVolume": false,
+        "bundles": [
+          {
+            "id": "s_592995015_0",
+            "orders": [
+              {
+                "id": "40168833186",
+                "itemId": "19836221588",
+                "skuId": "36834499974",
+                "cartId": "40168833186",
+                "isValid": true,
+                "url": "http://item.taobao.com/item.htm?id=19836221588",
+                "pic": "http://img03.taobaocdn.com/bao/uploaded/i3/15015039186552052/T1daGuFjXbXXXXXXXX_!!0-item_pic.jpg",
+                "title": "包邮2013秋季新款甜美蕾丝帆布鞋 女 可爱小熊高帮牛筋底学生板鞋",
+                "weight": 0,
+                "skus": {
+                  "颜色分类": "浅蓝_小熊款",
+                  "尺码": "38_标准码_现货"
+                },
+                "shopId": "63309206",
+                "shopName": "妖精づ鞋柜",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=592995015",
+                "seller": "晨馨眼镜",
+                "sellerId": 592995015,
+                "price": {
+                  "now": 3000,
+                  "origin": 1600,
+                  "oriPromo": 3000,
+                  "descend": 0,
+                  "save": 0,
+                  "sum": 21000,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 7,
+                  "max": 877,
+                  "limit": 9223372036854775807,
+                  "multiple": 1,
+                  "supply": 0,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "CART_EBOOK": [],
+                  "CART_XIAOBAO": [
+                    {
+                      "desc": "如实描述",
+                      "title": "消费者保障服务，卖家承诺商品如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://img03.taobaocdn.com/tps/i3/T1bnR4XEBhXXcQVo..-14-16.png"
+                    }
+                  ],
+                  "CART_YULIU": [
+                    {
+                      "title": "支持信用卡支付",
+                      "img": "http://assets.taobaocdn.com/sys/common/icon/trade/xcard.png"
+                    }
+                  ],
+                  "CART_IDENTITY": []
+                },
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "createTime": 1386156674000,
+                "attr": ";op:1600;cityCode:330100;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "skuStatus": 2,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1386156674000",
+                  "type": 0
+                }
+              }
+            ],
+            "type": "shop",
+            "valid": true
+          }
+        ]
+      },
+      {
+        "id": "s_84815057",
+        "title": "优木园艺",
+        "type": "shop",
+        "url": "http://store.taobao.com/shop/view_shop.htm?user_number_id=84815057",
+        "seller": "imalexli",
+        "host": "C",
+        "shopId": 35851735,
+        "sellerId": "84815057",
+        "isValid": true,
+        "scrollPromos": [
+          "<li title=\" 满49元,送多菌灵\">\r\n   \t\t \t\t\t\t\t\t\t\t\t满49元\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t,送<a href=\"http://item.taobao.com/auction/item_detail.htm?item_num_id=15753217482\" target=\"_blank\">多菌灵</a>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</li>",
+          "<li title=\" 满99元,送多肉植物专用毛刷\">\r\n   \t\t \t\t\t\t\t\t\t\t\t满99元\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t,送<a href=\"http://item.taobao.com/auction/item_detail.htm?item_num_id=17527102392\" target=\"_blank\">多肉植物专用毛刷</a>\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</li>",
+          "<li title=\" 满200元,送2条10g装美乐棵,可在购物车换购商品\">\r\n\t\t\t\t\t\t\t\t\t\t\t满200元\r\n\t\t\t\t\t                                                                                ,送<a href=\"http://item.taobao.com/auction/item_detail.htm?item_num_id=17851111119\" target=\"_blank\">2条10g装美乐棵</a>                                                                                ,可在购物车换购商品\t\t\t\t\t\t\t\t\t\t\t\t\t\t</li>",
+          "<li title=\" 满520元减10元,减后满520,送5元店铺优惠券,送美乐棵液体肥,送1注彩票,可在购物车换购商品\">\r\n\t\t\t\t\t\t\t\t\t\t\t满520元\r\n\t\t\t\t\t减10元                    ,减后满520元                                        , 送5元店铺优惠券                    ,送<a href=\"http://item.taobao.com/auction/item_detail.htm?item_num_id=17685226584\" target=\"_blank\">美乐棵液体肥</a>                    ,送1注彩票                                                            ,可在购物车换购商品\t\t\t\t\t\t\t\t\t\t\t\t\t\t</li>"
+        ],
+        "hasPriceVolume": false,
+        "bundles": [
+          {
+            "id": "s_84815057_0",
+            "orders": [
+              {
+                "id": "39716263498",
+                "itemId": "18201654273",
+                "skuId": "0",
+                "cartId": "39716263498",
+                "isValid": true,
+                "url": "http://item.taobao.com/item.htm?id=18201654273",
+                "pic": "http://img03.taobaocdn.com/bao/uploaded/i3/T1fXQnFkVdXXXXXXXX_!!0-item_pic.jpg",
+                "title": "美乐棵 家庭园艺肥料 通用型 500g 大包装更划算",
+                "weight": 0,
+                "shopId": "35851735",
+                "shopName": "优木园艺",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=84815057",
+                "seller": "imalexli",
+                "sellerId": 84815057,
+                "price": {
+                  "now": 4500,
+                  "origin": 4500,
+                  "oriPromo": 4500,
+                  "descend": 0,
+                  "save": 0,
+                  "sum": 4500,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 1,
+                  "max": 11,
+                  "limit": 9223372036854776000,
+                  "multiple": 1,
+                  "supply": 0,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "CART_EBOOK": [],
+                  "CART_XIAOBAO": [
+                    {
+                      "desc": "如实描述",
+                      "title": "消费者保障服务，卖家承诺商品如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://img03.taobaocdn.com/tps/i3/T1bnR4XEBhXXcQVo..-14-16.png"
+                    }
+                  ],
+                  "CART_YULIU": [
+                    {
+                      "title": "支持信用卡支付",
+                      "img": "http://assets.taobaocdn.com/sys/common/icon/trade/xcard.png"
+                    }
+                  ],
+                  "CART_IDENTITY": []
+                },
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "createTime": 1385604205000,
+                "attr": ";op:4500;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "skuStatus": 0,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1385604205000",
+                  "type": 0
+                }
+              }
+            ],
+            "type": "shop",
+            "valid": true
+          }
+        ]
+      },
+      {
+        "id": "s_28011101",
+        "title": "菲然小屋",
+        "type": "shop",
+        "url": "http://store.taobao.com/shop/view_shop.htm?user_number_id=28011101",
+        "seller": "aoyoucheny",
+        "host": "C",
+        "shopId": 33385218,
+        "sellerId": "28011101",
+        "isValid": true,
+        "hasPriceVolume": false,
+        "bundles": [
+          {
+            "id": "s_28011101_0",
+            "orders": [
+              {
+                "id": "39840397057",
+                "itemId": "20174283014",
+                "skuId": "32568327374",
+                "cartId": "39840397057",
+                "isValid": true,
+                "url": "http://item.taobao.com/item.htm?id=20174283014",
+                "pic": "http://img01.taobaocdn.com/bao/uploaded/i1/28011101/T21BCmXdxcXXXXXXXX_!!28011101.jpg",
+                "title": "夏装2014新款卡其可可童装女童儿童蕾丝网纱裙公主裙礼服裙子童裙",
+                "weight": 0,
+                "skus": {
+                  "颜色分类": "81933-蓝色#",
+                  "参考身高": "100cm"
+                },
+                "shopId": "33385218",
+                "shopName": "菲然小屋",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=28011101",
+                "seller": "aoyoucheny",
+                "sellerId": 28011101,
+                "price": {
+                  "now": 8800,
+                  "origin": 8800,
+                  "oriPromo": 7200,
+                  "descend": 0,
+                  "save": 0,
+                  "sum": 8800,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 1,
+                  "max": 1,
+                  "limit": 9223372036854776000,
+                  "multiple": 1,
+                  "supply": 1,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "CART_EBOOK": [],
+                  "CART_XIAOBAO": [
+                    {
+                      "desc": "如实描述",
+                      "title": "消费者保障服务，卖家承诺商品如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://img03.taobaocdn.com/tps/i3/T1bnR4XEBhXXcQVo..-14-16.png"
+                    },
+                    {
+                      "desc": "7天退换",
+                      "title": "消费者保障服务，卖家承诺7天无理由退换货",
+                      "link": "http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&am_id=130011831021c2f3caab&cm_id=&pm_id=",
+                      "img": "http://img04.taobaocdn.com/tps/i4/T16lKeXwFcXXadE...-14-15.png"
+                    }
+                  ],
+                  "CART_YULIU": [
+                    {
+                      "title": "支持信用卡支付",
+                      "img": "http://assets.taobaocdn.com/sys/common/icon/trade/xcard.png"
+                    }
+                  ],
+                  "CART_IDENTITY": []
+                },
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "createTime": 1385573556000,
+                "attr": ";op:8800;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "skuStatus": 2,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1385573556000",
+                  "type": 0
+                }
+              }
+            ],
+            "type": "shop",
+            "valid": true
+          }
+        ]
+      },
+      {
+        "id": "s_682508620",
+        "title": "淑美玩具",
+        "type": "shop",
+        "url": "http://store.taobao.com/shop/view_shop.htm?user_number_id=682508620",
+        "seller": "cfwd2011",
+        "host": "C",
+        "shopId": 65608623,
+        "sellerId": "682508620",
+        "isValid": true,
+        "hasPriceVolume": true,
+        "bundles": [
+          {
+            "id": "s_682508620_0",
+            "orders": [
+              {
+                "id": "39840397058",
+                "itemId": "17305114097",
+                "skuId": "0",
+                "cartId": "39840397058",
+                "isValid": true,
+                "url": "http://item.taobao.com/item.htm?id=17305114097",
+                "pic": "http://img02.taobaocdn.com/bao/uploaded/i2/18620019764649808/T1KZ0eXBXhXXXXXXXX_!!0-item_pic.jpg",
+                "title": "志扬玩具 滑翔机 遥控飞机 直升机 固定翼EPP 航模 耐摔",
+                "weight": 0,
+                "shopId": "65608623",
+                "shopName": "淑美玩具",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=682508620",
+                "seller": "cfwd2011",
+                "sellerId": 682508620,
+                "price": {
+                  "now": 11800,
+                  "origin": 11800,
+                  "oriPromo": 11800,
+                  "descend": 0,
+                  "save": 0,
+                  "sum": 11800,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 1,
+                  "max": 93,
+                  "limit": 9223372036854776000,
+                  "multiple": 1,
+                  "supply": 0,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "CART_EBOOK": [],
+                  "CART_XIAOBAO": [
+                    {
+                      "desc": "如实描述",
+                      "title": "消费者保障服务，卖家承诺商品如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://img03.taobaocdn.com/tps/i3/T1bnR4XEBhXXcQVo..-14-16.png"
+                    },
+                    {
+                      "desc": "7天退换",
+                      "title": "消费者保障服务，卖家承诺7天无理由退换货",
+                      "link": "http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&am_id=130011831021c2f3caab&cm_id=&pm_id=",
+                      "img": "http://img04.taobaocdn.com/tps/i4/T16lKeXwFcXXadE...-14-15.png"
+                    }
+                  ],
+                  "CART_YULIU": [
+                    {
+                      "title": "支持信用卡支付",
+                      "img": "http://assets.taobaocdn.com/sys/common/icon/trade/xcard.png"
+                    }
+                  ],
+                  "CART_IDENTITY": []
+                },
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "createTime": 1385573541000,
+                "attr": ";op:11800;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "skuStatus": 0,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1385573541000",
+                  "type": 0
+                }
+              }
+            ],
+            "type": "shop",
+            "valid": true
+          }
+        ]
+      },
+      {
+        "id": "s_1103141522",
+        "title": "维依恋旗舰店",
+        "type": "shop",
+        "url": "http://store.taobao.com/shop/view_shop.htm?user_number_id=1103141522",
+        "seller": "维依恋旗舰店",
+        "host": "B",
+        "shopId": 101488084,
+        "sellerId": "1103141522",
+        "isValid": true,
+        "hasPriceVolume": false,
+        "promView": {
+          "title": "省0.00元:3.8生活节",
+          "discount": 0,
+          "point": 0,
+          "usePoint": 0,
+          "isSelected": true,
+          "value": "Tmall$tspAll-27484074"
+        },
+        "bundles": [
+          {
+            "id": "s_1103141522_1",
+            "orders": [
+              {
+                "id": "38105149506",
+                "itemId": "19182186172",
+                "skuId": "30291521265",
+                "cartId": "38105149506",
+                "isValid": true,
+                "url": "http://detail.tmall.com/item.htm?id=19182186172",
+                "pic": "http://img04.taobaocdn.com/bao/uploaded/i4/1103141522/T2FCMPXmpXXXXXXXXX_!!1103141522.jpg_sum.jpg",
+                "title": "维依恋2014春装新款气质女装包臀修身长袖连衣裙春秋针织打底裙子",
+                "weight": 0,
+                "skus": {
+                  "颜色分类": "紫色",
+                  "尺码": "M"
+                },
+                "shopId": "101488084",
+                "shopName": "维依恋旗舰店",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=1103141522",
+                "seller": "维依恋旗舰店",
+                "sellerId": 1103141522,
+                "price": {
+                  "now": 16800,
+                  "origin": 29800,
+                  "oriPromo": 16800,
+                  "descend": 0,
+                  "save": 13000,
+                  "sum": 16800,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 1,
+                  "max": 21,
+                  "limit": 9223372036854775807,
+                  "multiple": 1,
+                  "supply": 0,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "MALL_CART_IDENTITY": [],
+                  "PAYMENT": [
+                    {
+                      "title": "支持信用卡支付",
+                      "link": "",
+                      "img": "http://a.tbcdn.cn/sys/common/icon/trade/xcard.png"
+                    }
+                  ],
+                  "MALL_CART_YULIU": [],
+                  "MALL_CART_XIAOBAO": [
+                    {
+                      "title": "消费者保障服务，卖家承诺7天退换",
+                      "link": "http://www.taobao.com/go/act/315/xb_20100707.php?ad_id=&am_id=1300268931aef04f0cdc&cm_id=&pm_id=#qitian",
+                      "img": "http://a.tbcdn.cn/tbsp/icon/xiaobao/a_7-day_return_16x16.png",
+                      "name": "七天退换"
+                    },
+                    {
+                      "title": "消费者保障服务，卖家承诺如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://a.tbcdn.cn/tbsp/icon/xiaobao/a_true_description_16x16.png",
+                      "name": "如实描述"
+                    },
+                    {
+                      "title": "消费者保障服务，卖家承诺假一赔三",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_jyps.php?ad_id=&am_id=1300118304240d56fca9&cm_id=&pm_id=",
+                      "img": "http://a.tbcdn.cn/tbsp/icon/xiaobao/an_authentic_item_16x16.png",
+                      "name": "假一赔三"
+                    }
+                  ]
+                },
+                "campaignId": "0",
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "promos": [
+                  [
+                    {
+                      "style": "Tmall$tmallItemPromotion",
+                      "title": "省130元:三八节大促",
+                      "usedPoint": 0
+                    }
+                  ]
+                ],
+                "createTime": 1383900681000,
+                "attr": ";campaignId:0;op:29800;cityCode:330100;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "suggestInfo": {
+                  "tjbSuggestInfo": "1:16500;"
+                },
+                "skuStatus": 2,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1383900681000",
+                  "type": 0
+                },
+                "logo": [
+                  {
+                    "pos": 2,
+                    "url": "http://img.taobaocdn.com/bao/uploaded/T1CgyXFxhaXXaCwpjX.png"
+                  }
+                ]
+              }
+            ],
+            "type": "act",
+            "title": "3.8生活节",
+            "url": "http://marketing.tmall.com/home/tsp/page.htm?id=27484074_101488084",
+            "scrollPromos": [
+              "满1件,享包邮"
+            ],
+            "gradeMessage": "",
+            "promos": [
+              "包邮"
+            ],
+            "valid": true
+          }
+        ]
+      },
+      {
+        "id": "s_383999134",
+        "title": "新星轩精品男童装",
+        "type": "shop",
+        "url": "http://store.taobao.com/shop/view_shop.htm?user_number_id=383999134",
+        "seller": "新星轩",
+        "host": "C",
+        "shopId": 60795716,
+        "sellerId": "383999134",
+        "isValid": false,
+        "hasPriceVolume": false,
+        "bundles": [
+          {
+            "id": "s_383999134_0",
+            "orders": [
+              {
+                "id": "39748572042",
+                "itemId": "20126729337",
+                "skuId": "37509411587",
+                "cartId": "39748572042",
+                "isValid": false,
+                "url": "http://item.taobao.com/item.htm?id=20126729337",
+                "pic": "http://img01.taobaocdn.com/bao/uploaded/i1/383999134/T2AsXWXvdXXXXXXXXX_!!383999134.jpg",
+                "title": "秋款童装 男童风衣外套中长款 儿童皮风衣韩版潮 春装2014新款",
+                "weight": 0,
+                "skus": {
+                  "颜色分类": "黑色",
+                  "参考身高": "110cm【110码】"
+                },
+                "shopId": "60795716",
+                "shopName": "新星轩精品男童装",
+                "shopUrl": "http://store.taobao.com/shop/view_shop.htm?user_number_id=383999134",
+                "seller": "新星轩",
+                "sellerId": 383999134,
+                "price": {
+                  "now": 25800,
+                  "origin": 25800,
+                  "oriPromo": 16800,
+                  "descend": 0,
+                  "save": 0,
+                  "sum": 25800,
+                  "actual": 0,
+                  "prepay": 0,
+                  "finalpay": 0,
+                  "extraCharges": 0
+                },
+                "amount": {
+                  "now": 1,
+                  "max": 0,
+                  "limit": 9223372036854775807,
+                  "multiple": 1,
+                  "supply": 0,
+                  "demand": 0
+                },
+                "itemIcon": {
+                  "CART_EBOOK": [],
+                  "CART_XIAOBAO": [
+                    {
+                      "desc": "如实描述",
+                      "title": "消费者保障服务，卖家承诺商品如实描述",
+                      "link": "http://www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=",
+                      "img": "http://img03.taobaocdn.com/tps/i3/T1bnR4XEBhXXcQVo..-14-16.png"
+                    },
+                    {
+                      "desc": "7天退换",
+                      "title": "消费者保障服务，卖家承诺7天无理由退换货",
+                      "link": "http://www.taobao.com/go/act/315/xbqt090304.php?ad_id=&am_id=130011831021c2f3caab&cm_id=&pm_id=",
+                      "img": "http://img04.taobaocdn.com/tps/i4/T16lKeXwFcXXadE...-14-15.png"
+                    }
+                  ],
+                  "CART_YULIU": [
+                    {
+                      "title": "支持信用卡支付",
+                      "img": "http://assets.taobaocdn.com/sys/common/icon/trade/xcard.png"
+                    }
+                  ],
+                  "CART_IDENTITY": []
+                },
+                "isDouble11": false,
+                "isDouble11halfDiscount": false,
+                "isCod": false,
+                "isAttention": true,
+                "createTime": 1385627760000,
+                "attr": ";op:25800;",
+                "preference": false,
+                "isSellerPayPostfee": false,
+                "leafCategory": 0,
+                "cumulativeSales": 0,
+                "skuStatus": 3,
+                "cartActiveInfo": {
+                  "isDefault": false,
+                  "wantStatus": 0,
+                  "endTime": 0,
+                  "cartBcParams": "buyerCondition~0~~cartCreateTime~1385627760000",
+                  "type": 0
+                }
+              }
+            ],
+            "type": "shop",
+            "valid": true
+          }
+        ]
+      }
+    ]
+  },
+  "responseError": "this is error data"
+}

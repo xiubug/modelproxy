@@ -1,0 +1,7 @@
+{
+	"request": {
+
+	},
+	"response": "This is a mock text",
+	"responseError": "This is a mock error"
+}

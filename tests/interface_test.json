@@ -1,0 +1,67 @@
+{
+    "title": "midway example interface configuration",
+    "version": "1.0.0",
+    "engine": "mockjs",
+    "rulebase": "./interfaceRules/",
+    "status": "online",
+    "interfaces": [ {
+        "name": "我的购物车",
+        "id": "Cart.getMyCart",
+        "urls": {
+            "online": "http://cart.taobao.com/json/asyncGetMyCart.do"
+        },
+        "isCookieNeeded": true,
+        "timeout": 100,
+        "encoding": "gbk"
+    }, {
+        "name": "主搜索接口",
+        "id": "Search.list",
+        "urls": {
+            "online": "http://api.s.m.taobao.com/search.json"
+        },
+        "status": "mock"
+    }, {
+        "name": "热词推荐接口",
+        "id": "Search.suggest",
+        "urls": {
+            "online": "http://suggest.taobao.com/sug"
+        }
+    }, {
+        "name": "导航获取接口",
+        "id": "Search.getNav",
+        "urls": {
+            "online": "http://s.m.taobao.com/client/search.do"
+        },
+        "status": "mock",
+        "isRuleStatic": true
+    }, {
+        "name": "重复的导航获取接口",
+        "id": "D.getNav",
+        "urls": {
+            "online": "http://s.m.taobao.com/client/search.do"
+        },
+        "status": "online",
+        "isRuleStatic": true,
+        "intercepted": false
+    }, {
+        "name": "post测试接口",
+        "id": "Test.post",
+        "urls": {
+            "online": "http://127.0.0.1:3001/post"
+        },
+        "method": "post",
+        "dataType": "text"
+    },{
+        "name": "timeout测试接口",
+        "id": "Test.timeoutUrl",
+        "urls": {
+            "online": "http://127.0.0.1:3001/timeoutUrl"
+        },
+        "method": "get",
+        "dataType": "text",
+        "timeout": 1000
+    }  ],
+    "combo": {
+        "getMyData": [ "Cart.getCart", "Search.suggest" ]
+    }
+}

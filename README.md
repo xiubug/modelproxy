@@ -1,4 +1,4 @@
-# Why?
+该模块基于modelproxy改写，大部分代码保持不变，加上modelproxy在网上很难下载，所以我特此分享下，供大家使用。
 ---
 淘系的技术大背景下，必须依赖Java提供稳定的后端接口服务。在这样环境下，Node Server在实际应用中的一个主要作用即是代理(Proxy)功能。由于淘宝业务复杂，后端接口方式多种多样(MTop, Modulet, HSF...)。然而在使用Node开发web应用时，我们希望有一种统一方式访问这些代理资源的基础框架，为开发者屏蔽接口访问差异，同时提供友好简洁的数据接口使用方式。于是就有了 midway-modelproxy 这个构件。使用midway-modelproxy，可以提供如下好处：
 
@@ -284,7 +284,7 @@ app.get( '/getMycart', function( req, res ) {
     "status": "online",                      // [必填][string] 全局代理状态，取值只能是 interface.urls中出现过的键值或者mock
     "interfaces": [ {
         "name": "获取购物车信息",               // [选填][string] 接口名称 生成文档有用
-        "desc": "接口负责人: 善繁",             // [选填][string] 接口描述 生成文档有用
+        "desc": "接口负责人",             	 // [选填][string] 接口描述 生成文档有用
         "version": "0.0.1",                  // [选填][string] 接口版本号 发送请求时会带上版本号字段
         "id": "cart.getCart",                // [必填][string] 接口ID，必须由英文单词+点号组成
         "urls": {                            // [如果ruleFile不存在, 则必须有一个地址存在][object] 可供切换的url集合

@@ -1,7 +1,20 @@
-### 小广告
-```
-  JS/React/Vue/Angular前端：599399742
-```
+## 前言
+
+>  如果觉得不错的话，请star一下吧 😊
+
+##### 使用技术： 前端架构express + node + xtemplate + mockjs + modelproxy-copy，服务端架构nodejs + express
+
+##### 项目说明： 此项目是本人空余时间搭建的。希望大家提供宝贵的意见和建议，谢谢。
+
+##### JS/React/Vue/Angular前端群： 599399742
+
+##### 邮&emsp;&emsp;&ensp;箱： sosout@139.com
+
+##### 个人网站： http://www.sosout.com/
+
+##### 个人博客： http://blog.sosout.com/
+
+##### 个人简书： http://www.jianshu.com/users/23b9a23b8849/latest_articles
 
 该模块基于modelproxy改写，大部分代码保持不变，加上modelproxy在网上很难下载，所以我特此分享下，供大家使用，今后有什么新功能我也会在此基础迭代。
 ---
